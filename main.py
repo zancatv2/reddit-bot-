@@ -2,7 +2,7 @@ import praw
 
 reddit = praw.Reddit(
     client_id="rAIDYUguYJ4f-b17HpRLHg",
-    client_secret="DIBIpn74Jx46_eBV82dii7VaZhm14g",
+    client_secret="",
     user_agent="skib skib",
 )
 
